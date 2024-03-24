@@ -1,0 +1,43 @@
+{
+    "Infosys": [
+      {
+        "tag": "Employee",
+        "patterns": [
+          "How was my company's performance over the last 3 quarters?",
+          "Which industry segments and offerings have outperformed in the last quarter?",
+          "What are the key strategies announced by my company in the last quarter and what was the market reaction to those strategies?"
+        ],
+        "responses": [
+          "Over the past three quarters, Infosys Ltd maintained a stable financial performance. Net profit remained relatively consistent, hovering around ₹6,000-6,200 million. Operating profit showed resilience, ranging from ₹8,383 to ₹9,440 million. Sales figures remained steady, with revenues ranging from ₹37,441 to ₹38,994 million. However, challenges were evident in cash flow management, with net cash flow fluctuating from -₹919 to -₹7,242 million. Despite these challenges, Infosys sustained its competitive position, emphasizing the need for improved cash flow management to ensure sustained growth amidst dynamic market conditions."
+          , "Certainly! In the last quarter of 2023, Infosys, a leading global technology services company, achieved notable financial milestones. Their revenues reached ₹38,821 crore, with digital business contributing 62.2% of the total. Despite challenges, Infosys maintained a strong operating margin of 20.5%. The company’s net profit stood at ₹6,106 crore, and they continued to secure significant deals in digital services. These figures reflect Infosys’s resilience and strategic focus on digital transformation in a dynamic market environment ."
+          , "In response to Infosys’s strategies announced in Q3 2023, the market exhibited mixed reactions. While the company surprised investors by raising its revenue growth guidance to 16-16.5% (up from the earlier 15-16%), some analysts expected Infosys to retain its previous guidance. However, the operating margin guidance remained steady at 21-22%. The stock market initially responded with cautious optimism, but investors awaited concrete results and execution details"
+      ]
+      },
+      {
+        "tag": "CXO",
+        "patterns": [
+          "How is the company’s performance in the current quarter?",
+          "Will the company meet market expectations and  financial guidance in the current quarter?"
+        ],
+        "responses": [" Not Applicable " , " Not Applicable "]
+      },
+      {
+        "tag": "Service Head",
+        "patterns": [
+          "How is my service line performance in the current quarter?",
+          "Which segments and offering are underperforming?",
+          "What are the key reasons for underperformance in segment X?"
+        ],
+        "responses": ["Cannot Determine" , "Cannot Determine" , "Cannot Determine"]
+      },
+      {
+        "tag": "Coporate Starategy",
+        "patterns": [
+          "Based on the projected current quarter financial performance what is the likely market reaction?",
+          "Based on the projected current quarter financial performance what are the likely questions that analysts are likely to pose?"
+        ],
+        "responses": ["Cannot Determine" , "Cannot Determine"]
+      }
+    ]
+  }
+  
